@@ -9,3 +9,5 @@
     
 # Happy Coding !!!
  <!--Together we build a better place  -->
+ <!-- feature_neris -->
+ created the responsive card slider, this was done using html, css and javascript. the responsive design was done using css media queries.
